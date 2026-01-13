@@ -38,7 +38,7 @@ function App() {
       <MainContent />
       <Footer />
       <div className="App">
-        <UserProfile name="Alice" age={25} bio="Love is in the Air" />
+        <UserProfile name="Alice" age={25} bio="Loves hiking and photography" />
       </div>
     </>
   );
