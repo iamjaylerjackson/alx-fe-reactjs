@@ -1,4 +1,4 @@
-// commet out
+// commet
 import { useState } from "react";
 
 function Contact() {

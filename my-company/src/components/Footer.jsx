@@ -1,3 +1,4 @@
+// Comment here
 function Footer() {
   const footerStyle = {
     backgroundColor: "#333",
